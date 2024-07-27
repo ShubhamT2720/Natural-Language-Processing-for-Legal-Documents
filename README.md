@@ -14,10 +14,15 @@ Statistics File: A file named stats-IN-test.txt provides the required summary le
 # Tools and Libraries Used
 Python Libraries:
 transformers: Used to load pre-trained models and tokenizers.
+
 torch: Facilitates deep learning operations and computations on GPUs.
+
 nltk: Used for tokenization of text into sentences.
+
 pandas and numpy: Utilized for data manipulation and numerical operations.
+
 Model: nsi319/legal-pegasus from Hugging Face's Transformers library, specifically designed for summarizing legal documents.
+
 Platform: Google Colab for cloud-based execution and GPU acceleration.
 
 # Process Overview
